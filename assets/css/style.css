@@ -180,7 +180,7 @@ html{
     /* Giá trị % thì nó là kích thước tỉ lệ theo chiều ngang của chính nó */
     padding-top: 50%;
     /* background: url() position size repeat; */
-    background: url(../../assets/img/slider/slider1.jpg) top center / cover no-repeat;
+    background: url(../img/slider/slider1.jpg) top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
