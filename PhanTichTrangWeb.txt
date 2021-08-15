@@ -1,0 +1,22 @@
+Những thành phần thường gặp trên giao diện website
+
+    1. header
+    2. navigation (Điều hướng)
+    3. banner (hình ảnh thường được hiểu là quảng cáo)
+    4. breadcrumb (Đường dẫn)
+    5. sidebar (Menu nằm bên trái hoặc bên phải màn hình )
+    6. slider (Hình ănh chạy)
+    7. content (Nội dung chính)
+    8. footer
+Những thành phần trong dự án The Band
+
+    1. header 
+    2. slider
+    3. content
+        - about  
+        - tour 
+            + Màn hình hiển thị lên trên là MODAL 
+            + Lớp phủ lên là OVERLAY (position : fixed)
+        - contact 
+        - image
+    4. footer 
